@@ -1,0 +1,6 @@
+{
+  "name": "Especial Deportivo — Liga Por Favor y Gracias",
+  "description": "Panel deportivo conversacional con locutores chilenos (Marcelo y Patricio) y tecnología Gemini 3.8 Flash TTS para analizar la Copa y Temporada 2 de la Liga Por Favor y Gracias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
